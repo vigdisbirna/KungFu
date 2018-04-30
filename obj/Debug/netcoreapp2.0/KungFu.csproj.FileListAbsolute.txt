@@ -1,0 +1,10 @@
+/Users/harpahreinsdottir/Documents/HR2017/Verklegt/KungFu/bin/Debug/netcoreapp2.0/KungFu.deps.json
+/Users/harpahreinsdottir/Documents/HR2017/Verklegt/KungFu/bin/Debug/netcoreapp2.0/KungFu.runtimeconfig.json
+/Users/harpahreinsdottir/Documents/HR2017/Verklegt/KungFu/bin/Debug/netcoreapp2.0/KungFu.runtimeconfig.dev.json
+/Users/harpahreinsdottir/Documents/HR2017/Verklegt/KungFu/bin/Debug/netcoreapp2.0/KungFu.dll
+/Users/harpahreinsdottir/Documents/HR2017/Verklegt/KungFu/bin/Debug/netcoreapp2.0/KungFu.pdb
+/Users/harpahreinsdottir/Documents/HR2017/Verklegt/KungFu/obj/Debug/netcoreapp2.0/KungFu.csproj.CoreCompileInputs.cache
+/Users/harpahreinsdottir/Documents/HR2017/Verklegt/KungFu/obj/Debug/netcoreapp2.0/KungFu.AssemblyInfoInputs.cache
+/Users/harpahreinsdottir/Documents/HR2017/Verklegt/KungFu/obj/Debug/netcoreapp2.0/KungFu.AssemblyInfo.cs
+/Users/harpahreinsdottir/Documents/HR2017/Verklegt/KungFu/obj/Debug/netcoreapp2.0/KungFu.dll
+/Users/harpahreinsdottir/Documents/HR2017/Verklegt/KungFu/obj/Debug/netcoreapp2.0/KungFu.pdb
